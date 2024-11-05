@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: market_data_pipeline
+Version: 0.1.0
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: pytest
+Requires-Dist: pytest-asyncio
+Requires-Dist: sortedcontainers
+Requires-Dist: pyyaml
+Requires-Dist: aiohttp
+Requires-Dist: pyarrow
